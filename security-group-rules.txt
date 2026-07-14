@@ -1,0 +1,6 @@
+Inbound Rules:
+1. sgr-0d83ed01859d611f0, HTTP, TCP, 80, 0.0.0.0/0, Public HTTP Access
+2. sgr-09d3214e3a99870d6, SSH, TCP, 22, MyIP, SSH from my IP
+
+Outbound Rules:
+Default
